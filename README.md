@@ -6,7 +6,7 @@ My name is Maria Eduarda Azevedo
 * <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/home.png" width="23" height="23" alt="world" align="center" />  I'm based in Brazil </a>
 * <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/inbox.png" width="23" height="23" alt="world" align="center" /> You can contact me at [barbosa.eduarda@outlook.com.br](mailto:barbosa.eduarda@outlook.com.br) </a>
 * <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/brain.png" width="23" height="23" alt="world" align="center" /> I'm learning AWS Cloud Computing .</a>
-* <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/linkedin.png" width="25" height="25" alt="world" align="center" /> Follow me on <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>[LinkedIn](https://www.linkedin.com/in/barbosa-eduarda/)</a>
+* <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/linkedin.png" width="25" height="25" alt="world" align="center" /> Follow me on <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>[LinkedIn](https://www.linkedin.com/in/barbosa-eduarda/)</a>
 
   ### Skills
 <p align="left">
