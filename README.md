@@ -6,6 +6,7 @@ My name is Maria Eduarda Azevedo
 * <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/home.png" width="23" height="23" alt="world" align="center" />  I'm based in Brazil </a>
 * <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/inbox.png" width="23" height="23" alt="world" align="center" /> You can contact me at [barbosa.eduarda@outlook.com.br](mailto:barbosa.eduarda@outlook.com.br) </a>
 * <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/brain.png" width="23" height="23" alt="world" align="center" /> I'm learning AWS Cloud Computing .</a>
+* Follow me on [LinkedIn](https://www.linkedin.com/in/barbosa-eduarda/)
 
   ### Skills
 <p align="left">
