@@ -5,7 +5,7 @@ My name is Maria Eduarda Azevedo
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [barbosa.eduarda@outlook.com.br](mailto:barbosa.eduarda@outlook.com.br)
 * 🧠  I'm learning AWS Cloud Computing .
-* https://img.icons8.com/ios/250/000000/earth-planet.png
+* <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/earth-planet.png" width="36" height="36" alt="Python" /></a> 
 ### Skills
 
 <p align="left">
