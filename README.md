@@ -22,6 +22,6 @@ print('Hello, world!') ![](https://user-images.githubusercontent.com/18350557/17
 
   <a> Bellow, in the icon, you can get a my notion's template that helps me to organize my life, stay productive, study, control my finances, my habits, my job, my reads and more! </a>
   
-  <p align="center">⤷ <a align="center" href="https://www.notion.so/M-a-s-t-e-r-V-i-e-w-template-7eeacf823663425e92aeb50a4995df26?pvs=4" target="_blank" rel="noreferrer"> <img src="https://get.site/wp-content/uploads/2021/10/notion-logo.png" width="105px" height="38px" alt="React" title="notion template" align="center" /> <a> ⤶ </a> </a></p>
+  <p align="center">⤷ <a align="center" href="https://www.notion.so/M-a-s-t-e-r-V-i-e-w-template-7eeacf823663425e92aeb50a4995df26?pvs=4" target="_blank" rel="noreferrer"> <img src="https://get.site/wp-content/uploads/2021/10/notion-logo.png" width="105px" height="38px" alt="React" title="notion template" align="center" /> <a align="center">⤶ </a> </a></p>
   
 </p>
