@@ -8,7 +8,7 @@ print('Hello, world!') ![](https://user-images.githubusercontent.com/18350557/17
   
   <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/inbox.png" width="23" height="23" alt="email" align="center" /> You can contact me at [barbosa.eduarda@outlook.com.br](mailto:barbosa.eduarda@outlook.com.br) </a>
   
-  <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/brain.png" width="23" height="23" alt="brain" align="center" /> I'm learning AWS Cloud Computing .</a>
+  <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/brain.png" width="23" height="23" alt="brain" align="center" /> I'm learning AWS Cloud Computing</a>
   
   <a target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/250/000000/linkedin.png" width="23" height="23" alt="In" align="center" /> Follow me on <a href="https://www.linkedin.com/in/barbosa-eduarda/"> LinkedIn </a></a>
 
